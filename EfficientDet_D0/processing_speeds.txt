@@ -1,0 +1,17 @@
+Model: tf_efficientdet_d0
+Resolution: 512x512
+Hardware: CPU/GPU (Mixed)
+
+ 1. Training Speed
+Average Epoch Duration: 26.9 seconds
+Total Training Time (20 Epochs): ~9.0 minutes
+Images Processed Per Epoch: 701
+
+ 2. Single Image Inference
+Avg Time to Process 1 Image: 19.8 milliseconds (0.0198s)
+
+ 3. Video Processing Speed
+Input Video: test_vid.mp4 (192 frames)
+Processing Rate: 50.5 FPS (Frames Per Second)
+Total Video Processing Time: 3.80 seconds
+Real-Time Multiplier: ~1.7x faster than real-time playback

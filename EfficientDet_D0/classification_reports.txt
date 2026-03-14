@@ -1,0 +1,35 @@
+EfficientDet-D0 Weather Robustness Detailed F1-Scores         
+CLEAR WEATHER WEATHER:
+Overall mAP@50: 0.245 | Overall F1: 0.317
+  - Crosswalk      : 0.775
+  - Trafficlight   : 0.000
+  - Stop           : 0.105
+  - Speedlimit     : 0.000
+
+LIGHT FOG WEATHER:
+Overall mAP@50: 0.242 | Overall F1: 0.309
+  - Crosswalk      : 0.734
+  - Trafficlight   : 0.000
+  - Stop           : 0.111
+  - Speedlimit     : 0.000
+
+HEAVY FOG WEATHER:
+Overall mAP@50: 0.243 | Overall F1: 0.311
+  - Crosswalk      : 0.721
+  - Trafficlight   : 0.000
+  - Stop           : 0.105
+  - Speedlimit     : 0.000
+
+LIGHT RAIN WEATHER:
+Overall mAP@50: 0.247 | Overall F1: 0.316
+  - Crosswalk      : 0.757
+  - Trafficlight   : 0.000
+  - Stop           : 0.118
+  - Speedlimit     : 0.000
+
+HEAVY RAIN WEATHER:
+Overall mAP@50: 0.237 | Overall F1: 0.303
+  - Crosswalk      : 0.789
+  - Trafficlight   : 0.000
+  - Stop           : 0.095
+  - Speedlimit     : 0.000
